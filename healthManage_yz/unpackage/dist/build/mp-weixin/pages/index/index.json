@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "u-loading": "/node-modules/uview-ui/components/u-loading/u-loading",
+    "report": "/components/report/report",
+    "u-grid": "/node-modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/node-modules/uview-ui/components/u-grid-item/u-grid-item",
+    "u-badge": "/node-modules/uview-ui/components/u-badge/u-badge",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-notice-bar": "/node-modules/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-modal": "/node-modules/uview-ui/components/u-modal/u-modal",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "calendar-yxb": "/components/calendar/calendarYxb",
+    "dc": "/components/dcReport/dc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "记录成长",
+  "usingComponents": {
+    "u-form": "/node-modules/uview-ui/components/u-form/u-form",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select"
+  }
+}

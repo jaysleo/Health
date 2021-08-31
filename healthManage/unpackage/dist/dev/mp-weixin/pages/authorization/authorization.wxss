@@ -1,0 +1,26 @@
+
+.logoBox.data-v-56b2940c {
+	margin: 40rpx;
+	padding: 0 50rpx;
+	text-align: center;
+	border-bottom: 2rpx solid #f0f0f0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.contentBox.data-v-56b2940c {
+	margin: 40rpx;
+	font-size: 32rpx;
+}
+.contentBox .content.data-v-56b2940c {
+	margin-top: 10rpx;
+}
+.contentBox .tips.data-v-56b2940c {
+	font-size: 26rpx;
+	color: #bfbfbf;
+	margin: 50rpx 0 80rpx;
+}
+

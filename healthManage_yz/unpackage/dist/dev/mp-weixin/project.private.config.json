@@ -1,0 +1,102 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/authorization/authorization",
+          "pathName": "pages/authorization/authorization",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/seeDoctor/seeDoctor",
+          "pathName": "pages/seeDoctor/seeDoctor",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/seeDoctor/seeDoctor",
+          "pathName": "pages/seeDoctor/seeDoctor",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/report/report",
+          "pathName": "pages/report/report",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/seeDoctor/seeDoctor",
+          "pathName": "pages/seeDoctor/seeDoctor",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/my/my",
+          "pathName": "pages/my/my",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/questionnaires/questionnaires",
+          "pathName": "pages/questionnaires/questionnaires",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/seeDoctor/seeDoctor",
+          "pathName": "pages/seeDoctor/seeDoctor",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/exp/exp",
+          "pathName": "pages/exp/exp",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/exp/exp",
+          "pathName": "pages/exp/exp",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/report/report1",
+          "pathName": "pages/report/report1",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/report/report2",
+          "pathName": "pages/report/report2",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/exp/exp",
+          "pathName": "pages/exp/exp",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/advisory/advisory",
+          "pathName": "pages/advisory/advisory",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

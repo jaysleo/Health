@@ -1,0 +1,57 @@
+.dcBox .title.data-v-62d85210 {
+  margin: 20rpx;
+  font-size: 36rpx;
+  font-weight: 700;
+}
+.dcBox .item.data-v-62d85210 {
+  background: #fff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 40rpx;
+  box-sizing: border-box;
+}
+.dcBox .item .titleBox.data-v-62d85210 {
+  width: 540rpx;
+}
+.dcBox .item .row.data-v-62d85210 {
+  text-align: center;
+}
+.dcBox .item .row1.data-v-62d85210 {
+  height: 40rpx;
+  line-height: 40rpx;
+}
+.dcBox .item .label.data-v-62d85210 {
+  width: 40%;
+  font-size: 30rpx;
+  font-weight: 700;
+  color: #3bbda1;
+}
+.dcBox .item .cont.data-v-62d85210 {
+  width: 60%;
+  font-size: 24rpx;
+}
+.dcBox .item .cont .value.data-v-62d85210 {
+  font-size: 50rpx;
+  font-weight: 700;
+}
+.dcBox .item .cont .tips.data-v-62d85210 {
+  color: #bfbfbf;
+}
+.dcBox .item .button.data-v-62d85210 {
+  background: #3bbda1;
+  padding: 20rpx;
+  height: 150rpx;
+  width: 150rpx;
+  color: #fff;
+  border-radius: 40rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  white-space: nowrap;
+}
+

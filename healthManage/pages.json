@@ -1,0 +1,121 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/seeDoctor/seeDoctor",
+			"style": {
+				"navigationBarTitleText": "就诊"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/authorization/authorization",
+			"style": {
+				"navigationBarTitleText": "微信授权"
+			}
+		},
+		{
+			"path": "pages/advisory/advisory",
+			"style": {
+				"navigationBarTitleText": "医生"
+			}
+		},
+		{
+			"path": "pages/webViewer/webViewer",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/h5/h5",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/report/report",
+			"style": {
+				"navigationBarTitleText": "我的报告"
+			}
+		},
+		{
+			"path": "pages/report/report1",
+			"style": {
+				"navigationBarTitleText": "我的报告"
+			}
+		},
+		{
+			"path": "pages/report/reportXxxq",
+			"style": {
+				"navigationBarTitleText": "我的报告"
+			}
+		},
+		{
+			"path": "pages/questionnaires/questionnaires",
+			"style": {
+				"navigationBarTitleText": "我的报告"
+			}
+		},
+		{
+			"path": "pages/report/myReport",
+			"style": {
+				"navigationBarTitleText": "我的报告"
+			}
+		},
+		{
+			"path": "pages/exp/exp",
+			"style": {
+				"navigationBarTitleText": "病友中心"
+			}
+		},
+		{
+			"path": "pages/study/study",
+			"style": {
+				"navigationBarTitleText": "学习中心"
+			}
+		},
+		{
+			"path": "pages/study/studyDetail",
+			"style": {
+				"navigationBarTitleText": "学习详情"
+			}
+		},
+		{
+			"path": "pages/gdForm/gdForm",
+			"style": {
+				"navigationBarTitleText": "调查问卷"
+			}
+		},
+		{
+			"path": "pages/report/reportDay",
+			"style": {
+				"navigationBarTitleText": "记录成长"
+			}
+		},
+		{
+			"path": "pages/report/reportDay1",
+			"style": {
+				"navigationBarTitleText": "记录成长"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "银屑管理中心",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

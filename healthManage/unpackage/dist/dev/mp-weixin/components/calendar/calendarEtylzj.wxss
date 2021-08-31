@@ -1,0 +1,24 @@
+.planModalBox.data-v-d547d6d4 {
+  -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+          box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin: 10rpx 20rpx;
+  border-radius: 40rpx;
+  background: #e6fffb;
+  padding: 20rpx;
+}
+.planModalBox .time.data-v-d547d6d4 {
+  font-size: 24rpx;
+  color: #bfbfbf;
+}
+.planModalBox .item.data-v-d547d6d4 {
+  height: 50rpx;
+  font-size: 25rpx;
+}
+.planModalBox .item .label.data-v-d547d6d4 {
+  color: #bfbfbf;
+  line-height: 30rpx;
+}
+.planModalBox .item .value.data-v-d547d6d4 {
+  font-weight: 700;
+}
+

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "zzx-calendar": "/components/zzx-calendar/zzx-calendar",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-loading": "/node-modules/uview-ui/components/u-loading/u-loading"
+  }
+}

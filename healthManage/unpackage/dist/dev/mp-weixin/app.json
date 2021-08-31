@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/seeDoctor/seeDoctor",
+    "pages/my/my",
+    "pages/authorization/authorization",
+    "pages/advisory/advisory",
+    "pages/webViewer/webViewer",
+    "pages/h5/h5",
+    "pages/report/report",
+    "pages/report/report1",
+    "pages/report/reportXxxq",
+    "pages/questionnaires/questionnaires",
+    "pages/report/myReport",
+    "pages/exp/exp",
+    "pages/study/study",
+    "pages/study/studyDetail",
+    "pages/gdForm/gdForm",
+    "pages/report/reportDay",
+    "pages/report/reportDay1"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "银屑管理中心",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
